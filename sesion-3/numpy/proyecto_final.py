@@ -7,8 +7,7 @@ class Estudiante:
         self.notas = notas
 
     def calcular_promedio(self):
-        notas_en_vector = np.array(self.notas)
-        promedio = np.mean(notas_en_vector)
+        promedio = np.mean(self.notas)
         print(f"El estudiante {self.nombre} tiene un promedio de {promedio}")
         if promedio >= 11:
             print("El estudiante ha aprobado.")
