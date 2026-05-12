@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\grafico\agrupar\clientes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\grafico\agrupar\facturacion.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\renombrar_columnas\ventas_enero.csv">
           <value>
             <Attribute>
