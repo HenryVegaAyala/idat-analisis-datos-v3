@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\combinar\clientes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\combinar\ventas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\concatenar\ventas_enero.csv">
           <value>
             <Attribute>
@@ -18,6 +32,13 @@
           </value>
         </entry>
         <entry key="\concatenar\ventas_febrero.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\concatenar_automatizado\anual.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -39,6 +60,34 @@
           </value>
         </entry>
         <entry key="\renombrar_columnas\ventas_enero.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto_pais\agrupador.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto_pais\clientes_reto.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto_pais\empleados_reto.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto_pais\facturacion.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

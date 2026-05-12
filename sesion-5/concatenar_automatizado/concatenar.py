@@ -21,3 +21,7 @@ for archivo in archivos_csv:
 anual = pd.concat(dataframes, ignore_index=True)
 
 print(anual)
+
+# Guardar consolidado
+anual.to_csv("anual.csv")
+anual.to_excel("anual.xlsx")
