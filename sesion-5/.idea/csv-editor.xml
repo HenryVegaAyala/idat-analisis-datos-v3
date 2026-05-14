@@ -87,28 +87,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\reto_pais\clientes_reto.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\reto_pais\empleados_reto.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\reto_pais\facturacion.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\ventas_enero.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
