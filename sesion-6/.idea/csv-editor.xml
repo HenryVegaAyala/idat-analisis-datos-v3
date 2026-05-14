@@ -10,7 +10,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\caso-heladeria\gastos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\grafico-barra\salaria.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto\casas\casas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto\notas\notas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\reto\tienda\mascotas.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
