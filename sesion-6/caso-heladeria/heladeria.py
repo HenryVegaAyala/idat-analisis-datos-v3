@@ -16,3 +16,11 @@ intervalo = st.t.interval(
 )
 
 print(f"El cliente promedio gastara entre s/.{intervalo[0]} y s/.{intervalo[1]}")
+
+# Punto medio
+promedio = (intervalo[0] + intervalo[1]) / 2
+print(promedio) # 15.43
+
+# marge de error -> 1.89
+print(15.43 - intervalo[0])
+print(intervalo[1] - 15.43)
