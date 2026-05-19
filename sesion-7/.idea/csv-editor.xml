@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\machine-learning\case-clientes\clientes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\machine-learning\case-credito\dato_credito.csv">
           <value>
             <Attribute>
