@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\machine-learning\case-recursos-humanos\regresion_multiple.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
